@@ -30,18 +30,18 @@ Declarative parser & writer driven by Haxe types. Build macros synthesize wrappe
 
 | Project | What & why | ⭐ |
 |---|---|---|
-| **[FD-Haxe-Up](https://github.com/axgord/FD-Haxe-Up)** | FlashDevelop project templates & features for Haxe — predates current Haxe IDE support. | ![stars](https://img.shields.io/github/stars/axgord/FD-Haxe-Up?style=flat&label=&color=DE8F00) |
-| **[haxe-cc](https://github.com/axgord/haxe-cc)** | Strongly-typed Haxe externs for the Cocos Creator game engine. | ![stars](https://img.shields.io/github/stars/axgord/haxe-cc?style=flat&label=&color=DE8F00) |
-| **[hx-monaco-editor](https://github.com/axgord/hx-monaco-editor)** | Haxe externs for the Monaco editor. | ![stars](https://img.shields.io/github/stars/axgord/hx-monaco-editor?style=flat&label=&color=DE8F00) |
-| **[hx-unity3d](https://github.com/axgord/hx-unity3d)** | Archived experiment: cross-compiling Haxe to Unity-compatible C#. | ![stars](https://img.shields.io/github/stars/axgord/hx-unity3d?style=flat&label=&color=DE8F00) |
+| **[FD-Haxe-Up](https://github.com/axgord/FD-Haxe-Up)** | FlashDevelop project templates & features for Haxe — predates current Haxe IDE support. | [![stars](https://img.shields.io/github/stars/axgord/FD-Haxe-Up?style=flat&label=&color=DE8F00)](https://github.com/axgord/FD-Haxe-Up/stargazers) |
+| **[haxe-cc](https://github.com/axgord/haxe-cc)** | Strongly-typed Haxe externs for the Cocos Creator game engine. | [![stars](https://img.shields.io/github/stars/axgord/haxe-cc?style=flat&label=&color=DE8F00)](https://github.com/axgord/haxe-cc/stargazers) |
+| **[hx-monaco-editor](https://github.com/axgord/hx-monaco-editor)** | Haxe externs for the Monaco editor. | [![stars](https://img.shields.io/github/stars/axgord/hx-monaco-editor?style=flat&label=&color=DE8F00)](https://github.com/axgord/hx-monaco-editor/stargazers) |
+| **[hx-unity3d](https://github.com/axgord/hx-unity3d)** | Archived experiment: cross-compiling Haxe to Unity-compatible C#. | [![stars](https://img.shields.io/github/stars/axgord/hx-unity3d?style=flat&label=&color=DE8F00)](https://github.com/axgord/hx-unity3d/stargazers) |
 
 ## 🤖 Claude Code plugins
 
 | Project | What & why | ⭐ |
 |---|---|---|
-| **[claude-workflow](https://github.com/axgord/claude-workflow)** | Drives AI agents through YAML state machines — guards, nested workflow stacks, live web dashboard. | ![stars](https://img.shields.io/github/stars/axgord/claude-workflow?style=flat&label=&color=DE8F00) |
-| **[claude-notify-sounds](https://github.com/axgord/claude-notify-sounds)** | Cross-platform sound notifications when the agent finishes or needs input. | ![stars](https://img.shields.io/github/stars/axgord/claude-notify-sounds?style=flat&label=&color=DE8F00) |
-| **[claude-keep-awake](https://github.com/axgord/claude-keep-awake)** | Keeps the machine awake while the agent works. | ![stars](https://img.shields.io/github/stars/axgord/claude-keep-awake?style=flat&label=&color=DE8F00) |
+| **[claude-workflow](https://github.com/axgord/claude-workflow)** | Drives AI agents through YAML state machines — guards, nested workflow stacks, live web dashboard. | [![stars](https://img.shields.io/github/stars/axgord/claude-workflow?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-workflow/stargazers) |
+| **[claude-notify-sounds](https://github.com/axgord/claude-notify-sounds)** | Cross-platform sound notifications when the agent finishes or needs input. | [![stars](https://img.shields.io/github/stars/axgord/claude-notify-sounds?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-notify-sounds/stargazers) |
+| **[claude-keep-awake](https://github.com/axgord/claude-keep-awake)** | Keeps the machine awake while the agent works. | [![stars](https://img.shields.io/github/stars/axgord/claude-keep-awake?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-keep-awake/stargazers) |
 
 ## 💼 Selected commercial work
 
