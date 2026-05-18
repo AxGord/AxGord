@@ -23,8 +23,16 @@ Cross-platform H.264/MP4 video encoder for OpenFL/hxcpp — encode `BitmapData` 
 ### 💾 [extension-file-save](https://github.com/soccertutor/extension-file-save) · `haxelib install extension-file-save`
 Cross-platform OpenFL/Lime native extension for saving files through **native OS file pickers** — `NSSavePanel` (macOS), `UIDocumentPickerViewController` (iOS), `ACTION_CREATE_DOCUMENT` (Android), Lime `FileDialog` (Windows/Linux). Desktop direct-write & mobile copy-to-destination workflows. MIT.
 
-### 🧩 [anyparse](https://github.com/axgord/anyparse)
+### 📜 [anyparse](https://github.com/axgord/anyparse)
 Declarative parser & writer driven by Haxe types. Build macros synthesize wrapper modules with cyclic type references — grammar-driven code generation, format- and language-agnostic.
+
+## 🤖 Claude Code plugins
+
+| Project | What & why | ⭐ |
+|---|---|---|
+| **[claude-workflow](https://github.com/axgord/claude-workflow)** | Drives AI agents through YAML state machines — guards, nested workflow stacks, live web dashboard. | [![stars](https://img.shields.io/github/stars/axgord/claude-workflow?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-workflow/stargazers) |
+| **[claude-notify-sounds](https://github.com/axgord/claude-notify-sounds)** | Cross-platform sound notifications when the agent finishes or needs input. | [![stars](https://img.shields.io/github/stars/axgord/claude-notify-sounds?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-notify-sounds/stargazers) |
+| **[claude-keep-awake](https://github.com/axgord/claude-keep-awake)** | Keeps the machine awake while the agent works. | [![stars](https://img.shields.io/github/stars/axgord/claude-keep-awake?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-keep-awake/stargazers) |
 
 ## 🧰 Tooling & engine integration
 
@@ -34,14 +42,6 @@ Declarative parser & writer driven by Haxe types. Build macros synthesize wrappe
 | **[haxe-cc](https://github.com/axgord/haxe-cc)** | Strongly-typed Haxe externs for the Cocos Creator game engine. | [![stars](https://img.shields.io/github/stars/axgord/haxe-cc?style=flat&label=&color=DE8F00)](https://github.com/axgord/haxe-cc/stargazers) |
 | **[hx-monaco-editor](https://github.com/axgord/hx-monaco-editor)** | Haxe externs for the Monaco editor. | [![stars](https://img.shields.io/github/stars/axgord/hx-monaco-editor?style=flat&label=&color=DE8F00)](https://github.com/axgord/hx-monaco-editor/stargazers) |
 | **[hx-unity3d](https://github.com/axgord/hx-unity3d)** | Archived experiment: cross-compiling Haxe to Unity-compatible C#. | [![stars](https://img.shields.io/github/stars/axgord/hx-unity3d?style=flat&label=&color=DE8F00)](https://github.com/axgord/hx-unity3d/stargazers) |
-
-## 🤖 Claude Code plugins
-
-| Project | What & why | ⭐ |
-|---|---|---|
-| **[claude-workflow](https://github.com/axgord/claude-workflow)** | Drives AI agents through YAML state machines — guards, nested workflow stacks, live web dashboard. | [![stars](https://img.shields.io/github/stars/axgord/claude-workflow?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-workflow/stargazers) |
-| **[claude-notify-sounds](https://github.com/axgord/claude-notify-sounds)** | Cross-platform sound notifications when the agent finishes or needs input. | [![stars](https://img.shields.io/github/stars/axgord/claude-notify-sounds?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-notify-sounds/stargazers) |
-| **[claude-keep-awake](https://github.com/axgord/claude-keep-awake)** | Keeps the machine awake while the agent works. | [![stars](https://img.shields.io/github/stars/axgord/claude-keep-awake?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-keep-awake/stargazers) |
 
 ## 💼 Selected commercial work
 
