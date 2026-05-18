@@ -52,6 +52,3 @@ Declarative parser & writer driven by Haxe types. Build macros synthesize wrappe
 ---
 
 ❤️ [Sponsor via PayPal](https://paypal.me/axgorde)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=axgord&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axgord&layout=compact&theme=default)
