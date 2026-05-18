@@ -4,11 +4,11 @@
 
 📍 Limassol, Cyprus · 🌐 [axgord.github.io](https://axgord.github.io) · 📫 [axgord@gmail.com](mailto:axgord@gmail.com)
 
-![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=flat&logo=haxe&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++17-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![ActionScript](https://img.shields.io/badge/AS3-CC0000?style=flat&logo=adobe&logoColor=white)
+[![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=flat&logo=haxe&logoColor=white)](https://haxe.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![C++](https://img.shields.io/badge/C++17-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org)
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![ActionScript](https://img.shields.io/badge/AS3-CC0000?style=flat&logo=adobe&logoColor=white)](https://airsdk.harman.com/)
 
 ---
 
@@ -55,5 +55,3 @@ Declarative parser & writer driven by Haxe types. Build macros synthesize wrappe
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=axgord&show_icons=true&theme=default)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axgord&layout=compact&theme=default)
-
-<!-- profile -->
