@@ -12,18 +12,18 @@
 
 ---
 
-## 🚩 Featured open source
+## ✨ Featured open source
 
-### [Pony](https://github.com/axgord/Pony) [![stars](https://img.shields.io/github/stars/axgord/Pony?style=flat&label=%E2%AD%90&color=DE8F00)](https://github.com/axgord/Pony/stargazers) · `haxelib install pony`
+### 🦄 [Pony](https://github.com/axgord/Pony) [![stars](https://img.shields.io/github/stars/axgord/Pony?style=flat&label=%E2%AD%90&color=DE8F00)](https://github.com/axgord/Pony/stargazers) · `haxelib install pony`
 Open-source cross-library and build toolchain for Haxe — **develop, build, test and publish** apps for Heaps, PixiJS, OpenFL, NodeJS, Electron, Cordova, PHP, Unity3D, Flash and Cocos Creator. XML-based UI system, powerful event system, scaffolding CLI. A long-running personal project, **used in production across multiple commercial games and apps**. MIT.
 
-### [extension-video-export](https://github.com/soccertutor/extension-video-export) · `haxelib install extension-video-export`
+### 🎬 [extension-video-export](https://github.com/soccertutor/extension-video-export) · `haxelib install extension-video-export`
 Cross-platform H.264/MP4 video encoder for OpenFL/hxcpp — encode `BitmapData` frames to MP4 via native APIs, no FFmpeg. Per-platform backends: **AVFoundation + IOSurface/Metal** (macOS/iOS), **Media Foundation + PBO readback** (Windows), **NDK AMediaCodec + EGL** (Android), **OpenH264 + minimp4** (Linux). GPU & CPU paths, B-frame-aware buffer pooling, async dispatch. MIT.
 
-### [extension-file-save](https://github.com/soccertutor/extension-file-save) · `haxelib install extension-file-save`
+### 💾 [extension-file-save](https://github.com/soccertutor/extension-file-save) · `haxelib install extension-file-save`
 Cross-platform OpenFL/Lime native extension for saving files through **native OS file pickers** — `NSSavePanel` (macOS), `UIDocumentPickerViewController` (iOS), `ACTION_CREATE_DOCUMENT` (Android), Lime `FileDialog` (Windows/Linux). Desktop direct-write & mobile copy-to-destination workflows. MIT.
 
-### [anyparse](https://github.com/axgord/anyparse)
+### 🧩 [anyparse](https://github.com/axgord/anyparse)
 Declarative parser & writer driven by Haxe types. Build macros synthesize wrapper modules with cyclic type references — grammar-driven code generation, format- and language-agnostic.
 
 ## 🧰 Tooling & engine integration
