@@ -2,8 +2,6 @@
 
 **Senior Software Engineer · Haxe expert & open-source maintainer.** ~20 years shipping production code: cross-platform engines and tooling, real-time graphics, computer vision. I like hard native problems and long-lived libraries.
 
-📍 Limassol, Cyprus · 🌐 [axgord.github.io](https://axgord.github.io) · 📫 [axgord@gmail.com](mailto:axgord@gmail.com)
-
 [![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=flat&logo=haxe&logoColor=white)](https://haxe.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![C++](https://img.shields.io/badge/C++17-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org)
