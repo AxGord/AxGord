@@ -14,7 +14,7 @@
 
 ## 🚩 Featured open source
 
-### [Pony](https://github.com/axgord/Pony) ⭐101 · `haxelib install pony`
+### [Pony](https://github.com/axgord/Pony) [![stars](https://img.shields.io/github/stars/axgord/Pony?style=flat&label=%E2%AD%90&color=DE8F00)](https://github.com/axgord/Pony/stargazers) · `haxelib install pony`
 Open-source cross-library and build toolchain for Haxe — **develop, build, test and publish** apps for Heaps, PixiJS, OpenFL, NodeJS, Electron, Cordova, PHP, Unity3D, Flash and Cocos Creator. XML-based UI system, powerful event system, scaffolding CLI. A long-running personal project, **used in production across multiple commercial games and apps**. MIT.
 
 ### [extension-video-export](https://github.com/soccertutor/extension-video-export) · `haxelib install extension-video-export`
@@ -30,16 +30,16 @@ Declarative parser & writer driven by Haxe types. Build macros synthesize wrappe
 
 | Project | What & why |
 |---|---|
-| **[FD-Haxe-Up](https://github.com/axgord/FD-Haxe-Up)** ⭐22 | FlashDevelop project templates & features for Haxe — predates current Haxe IDE support. |
-| **[haxe-cc](https://github.com/axgord/haxe-cc)** ⭐4 | Strongly-typed Haxe externs for the Cocos Creator game engine. |
-| **[hx-monaco-editor](https://github.com/axgord/hx-monaco-editor)** ⭐4 | Haxe externs for the Monaco editor. |
-| **[hx-unity3d](https://github.com/axgord/hx-unity3d)** ⭐35 | Archived experiment: cross-compiling Haxe to Unity-compatible C#. |
+| **[FD-Haxe-Up](https://github.com/axgord/FD-Haxe-Up)** ![stars](https://img.shields.io/github/stars/axgord/FD-Haxe-Up?style=flat&label=%E2%AD%90&color=DE8F00) | FlashDevelop project templates & features for Haxe — predates current Haxe IDE support. |
+| **[haxe-cc](https://github.com/axgord/haxe-cc)** ![stars](https://img.shields.io/github/stars/axgord/haxe-cc?style=flat&label=%E2%AD%90&color=DE8F00) | Strongly-typed Haxe externs for the Cocos Creator game engine. |
+| **[hx-monaco-editor](https://github.com/axgord/hx-monaco-editor)** ![stars](https://img.shields.io/github/stars/axgord/hx-monaco-editor?style=flat&label=%E2%AD%90&color=DE8F00) | Haxe externs for the Monaco editor. |
+| **[hx-unity3d](https://github.com/axgord/hx-unity3d)** ![stars](https://img.shields.io/github/stars/axgord/hx-unity3d?style=flat&label=%E2%AD%90&color=DE8F00) | Archived experiment: cross-compiling Haxe to Unity-compatible C#. |
 
 ## 🤖 Claude Code plugins
 
 | Project | What & why |
 |---|---|
-| **[claude-workflow](https://github.com/axgord/claude-workflow)** ⭐4 | Drives AI agents through YAML state machines — guards, nested workflow stacks, live web dashboard. |
+| **[claude-workflow](https://github.com/axgord/claude-workflow)** ![stars](https://img.shields.io/github/stars/axgord/claude-workflow?style=flat&label=%E2%AD%90&color=DE8F00) | Drives AI agents through YAML state machines — guards, nested workflow stacks, live web dashboard. |
 | **[claude-notify-sounds](https://github.com/axgord/claude-notify-sounds)** | Cross-platform sound notifications when the agent finishes or needs input. |
 | **[claude-keep-awake](https://github.com/axgord/claude-keep-awake)** | Keeps the machine awake while the agent works. |
 
