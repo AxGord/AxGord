@@ -14,7 +14,7 @@
 
 ## ✨ Featured open source
 
-### 🦄 [Pony](https://github.com/axgord/Pony) [![stars](https://img.shields.io/github/stars/axgord/Pony?style=flat&label=%E2%AD%90&color=DE8F00)](https://github.com/axgord/Pony/stargazers) · `haxelib install pony`
+### 🦄 [Pony](https://github.com/axgord/Pony) · `haxelib install pony` [![stars](https://img.shields.io/github/stars/axgord/Pony?style=flat&label=%E2%AD%90&color=DE8F00)](https://github.com/axgord/Pony/stargazers)
 Open-source cross-library and build toolchain for Haxe — **develop, build, test and publish** apps for Heaps, PixiJS, OpenFL, NodeJS, Electron, Cordova, PHP, Unity3D, Flash and Cocos Creator. XML-based UI system, powerful event system, scaffolding CLI. A long-running personal project, **used in production across multiple commercial games and apps**. MIT.
 
 ### 🎬 [extension-video-export](https://github.com/soccertutor/extension-video-export) · `haxelib install extension-video-export`
