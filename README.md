@@ -49,4 +49,4 @@ Declarative parser & writer driven by Haxe types. Build macros synthesize wrappe
 
 ---
 
-❤️ [Sponsor via PayPal](https://paypal.me/axgorde)
+☕ [Buy me a coffee](https://buymeacoffee.com/axgo) · ❤️ [Sponsor via PayPal](https://paypal.me/axgorde)
