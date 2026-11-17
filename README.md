@@ -28,7 +28,7 @@ Declarative parser & writer driven by Haxe types. Build macros synthesize wrappe
 
 | Project | What & why | ⭐ |
 |---|---|---|
-| **[claude-workflow](https://github.com/axgord/claude-workflow)** | Drives AI agents through YAML state machines — guards, nested workflow stacks, live web dashboard. | [![stars](https://img.shields.io/github/stars/axgord/claude-workflow?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-workflow/stargazers) |
+| <img src="https://axgord.github.io/claude-workflow/favicon.svg" width="16" align="top"> **[claude-workflow](https://axgord.github.io/claude-workflow/)** | Workflows for Claude Code agents: YAML state machines with gates, a self-dispatching task queue, a machine-wide thread pool and a live map of everything that runs. | [![stars](https://img.shields.io/github/stars/axgord/claude-workflow?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-workflow/stargazers) |
 | **[claude-notify-sounds](https://github.com/axgord/claude-notify-sounds)** | Cross-platform sound notifications when the agent finishes or needs input. | [![stars](https://img.shields.io/github/stars/axgord/claude-notify-sounds?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-notify-sounds/stargazers) |
 | **[claude-keep-awake](https://github.com/axgord/claude-keep-awake)** | Keeps the machine awake while the agent works. | [![stars](https://img.shields.io/github/stars/axgord/claude-keep-awake?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-keep-awake/stargazers) |
 
