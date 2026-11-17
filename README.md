@@ -59,6 +59,6 @@ Platform for parsers, writers and code tools in Haxe: a grammar is a set of Haxe
 
 ---
 
-📬 axgord@gmail.com · Telegram [@axgord](https://t.me/axgord)
+[![Email](https://img.shields.io/badge/axgord@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:axgord@gmail.com) [![Telegram](https://img.shields.io/badge/@axgord-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/axgord)
 
 ☕ [Buy me a coffee](https://buymeacoffee.com/axgo) · ❤️ [Sponsor via PayPal](https://paypal.me/axgorde)
