@@ -29,8 +29,8 @@ Platform for parsers, writers and code tools in Haxe: a grammar is a set of Haxe
 | Project | What & why | ⭐ |
 |---|---|---|
 | <img src="https://axgord.github.io/claude-workflow/favicon.svg" width="16" align="top"> **[claude-workflow](https://axgord.github.io/claude-workflow/)** | Workflows for Claude Code agents: YAML state machines with gates, a self-dispatching task queue, a machine-wide thread pool and a live map of everything that runs. It drives the day-to-day development of anyparse. | [![stars](https://img.shields.io/github/stars/axgord/claude-workflow?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-workflow/stargazers) |
-| **[claude-notify-sounds](https://github.com/axgord/claude-notify-sounds)** | Cross-platform sound notifications when the agent finishes or needs input. | [![stars](https://img.shields.io/github/stars/axgord/claude-notify-sounds?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-notify-sounds/stargazers) |
-| **[claude-keep-awake](https://github.com/axgord/claude-keep-awake)** | Keeps the machine awake while the agent works. | [![stars](https://img.shields.io/github/stars/axgord/claude-keep-awake?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-keep-awake/stargazers) |
+| 🔔 **[claude-notify-sounds](https://github.com/axgord/claude-notify-sounds)** | Cross-platform sound notifications when the agent finishes or needs input. | [![stars](https://img.shields.io/github/stars/axgord/claude-notify-sounds?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-notify-sounds/stargazers) |
+| ☕ **[claude-keep-awake](https://github.com/axgord/claude-keep-awake)** | Keeps the machine awake while the agent works. | [![stars](https://img.shields.io/github/stars/axgord/claude-keep-awake?style=flat&label=&color=DE8F00)](https://github.com/axgord/claude-keep-awake/stargazers) |
 
 🎓 [Claude Code in Action](https://academy.claude.com/verify/34b2fe451600e36c8bdf5a30b8e10989) — Claude Academy course completion (October 2026)
 
