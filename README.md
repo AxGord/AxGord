@@ -38,8 +38,8 @@ Platform for parsers, writers and code tools in Haxe: a grammar is a set of Haxe
 
 | Project | What & why | ⭐ |
 |---|---|---|
-| **[Stirrup Trouble](https://github.com/AxGord/Stirrup-Trouble)** | Solo entry for HaxeJam 2026: Summer Jam — an endless runner on Haxe, Heaps and Pony; code, music and sound effects by me. **[▶ Play in browser](https://axgord.itch.io/stirrup-trouble)** | [![stars](https://img.shields.io/github/stars/AxGord/Stirrup-Trouble?style=flat&label=&color=DE8F00)](https://github.com/AxGord/Stirrup-Trouble/stargazers) |
-| **[Bastion Defender](https://github.com/AxGord/ld46-bastion-defender)** | Ludum Dare 46 entry (2020, theme “Keep it alive”) — a browser action game: shoot enemies, earn money, buy upgrades. **[▶ Play in browser](https://axgord.itch.io/bastion-defender)** | [![stars](https://img.shields.io/github/stars/AxGord/ld46-bastion-defender?style=flat&label=&color=DE8F00)](https://github.com/AxGord/ld46-bastion-defender/stargazers) |
+| 🐴 **[Stirrup Trouble](https://github.com/AxGord/Stirrup-Trouble)** | Solo entry for HaxeJam 2026: Summer Jam — an endless runner on Haxe, Heaps and Pony; code, music and sound effects by me. **[▶ Play in browser](https://axgord.itch.io/stirrup-trouble)** | [![stars](https://img.shields.io/github/stars/AxGord/Stirrup-Trouble?style=flat&label=&color=DE8F00)](https://github.com/AxGord/Stirrup-Trouble/stargazers) |
+| 🏰 **[Bastion Defender](https://github.com/AxGord/ld46-bastion-defender)** | Ludum Dare 46 entry (2020, theme “Keep it alive”) — a browser action game: shoot enemies, earn money, buy upgrades. **[▶ Play in browser](https://axgord.itch.io/bastion-defender)** | [![stars](https://img.shields.io/github/stars/AxGord/ld46-bastion-defender?style=flat&label=&color=DE8F00)](https://github.com/AxGord/ld46-bastion-defender/stargazers) |
 
 ## 🧰 Tooling & engine integration
 
